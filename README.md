@@ -53,3 +53,5 @@ This project demonstrates the end-to-end data analytics process, including data 
 ##  Author
 
 Smruthi
+
+NOTE: Dataset and Project files are available in this repository. Large files may need to be downloaded to view.
